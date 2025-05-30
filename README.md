@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Amritha K<br>Grinding for a B.Tech degree in Electronics and Communication Engineering..<br>My interests are VLSI, PCB Design, Software testing and debugging.. Apart from the core field, 'm also interested in coding languages C, Cpp, HTML, CSS, JAVA.<br>Willing to learn more..
+#  About Me:
+I'm Amritha K<br>Grinding for a B.Tech degree in Electronics and Communication Engineering..<br>My interests are VLSI, PCB Design, VHDL, Software testing and debugging.. Apart from the core field, 'm also interested in coding languages likeC, Cpp, HTML, CSS, JAVA.<br>Willing to learn more..
 
 
 # 💻 Tech Stack:
